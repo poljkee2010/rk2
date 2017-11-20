@@ -49,5 +49,6 @@ int main()
 	{
 		cout << result[k] << ' ';
 	}
+	delete (a, b,result);
 	return 0;
 }
